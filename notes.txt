@@ -1,0 +1,9 @@
+--- PROGRESS ------------------------------------------------------
+
+stages folder have important stages.
+Really concise
+
+
+1) Have a window up (stage1_window_up.py
+
+2) start watching to for stage 2 => getting a background up (11:03 in video)
