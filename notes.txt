@@ -1,3 +1,11 @@
+IDEA :-
+
+        [[-- TRAVERSE THORUGH GIT COMMITS TO UNDERSTAND HOW TO EVOLVE THINGS
+
+        so you can focus on understanding more and noting down snippets less!!!
+
+
+
 --- PROGRESS ------------------------------------------------------
 
 stages folder have important stages.
